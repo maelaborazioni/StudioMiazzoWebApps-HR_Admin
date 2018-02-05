@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_tipifunzione",
+extendsID:"10A50C78-D37D-4500-BF3D-383323C291DC",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9E816CFC-8C08-416A-9445-8538DF549493"
+}
+],
+name:"hra_schemaelementiretributivi_dtl",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"7F39FBA6-DBAC-4D47-A177-7F7770853F42"

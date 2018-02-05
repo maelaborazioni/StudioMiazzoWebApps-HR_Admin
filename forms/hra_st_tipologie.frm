@@ -1,0 +1,16 @@
+dataSource:"db:/ma_hr/scopitipologieelementi",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2E6DD399-2E76-487F-AD13-3048E4AD3898"
+}
+],
+name:"hra_st_tipologie",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"A8738C21-3DA2-45AD-880D-5C96CE1F6B09",
+view:3

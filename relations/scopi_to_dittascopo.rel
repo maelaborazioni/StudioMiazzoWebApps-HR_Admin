@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittascopo",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"CA6F975D-1137-4E39-B3D4-0FA646773380"}
+],
+joinType:0,
+name:"scopi_to_dittascopo",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"4A9EF004-A4F6-40B8-9746-F303B0A62033"

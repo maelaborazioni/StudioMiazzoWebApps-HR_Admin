@@ -1,0 +1,13 @@
+addEmptyValue:0,
+customValues:null,
+dataProviderID1:"descrizione",
+dataProviderID2:"idtipofunzione",
+dataSource:"db:/ma_anagrafiche/tab_tipifunzione",
+name:"vls_tipifunzione",
+relationName:null,
+returnDataProviders:2,
+showDataProviders:1,
+sortOptions:"codice asc",
+typeid:34,
+uuid:"6FA7BCD3-2E91-4B65-9A0B-270BE6149A76",
+valueListType:1

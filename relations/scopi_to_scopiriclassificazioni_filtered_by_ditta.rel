@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"241315DB-27EE-4E16-9819-EE52100F37D3"},
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"globals.vCurrentEmployerID",typeid:23,uuid:"B4340C59-0803-4C8D-8DAC-C7C77E8FD93F"}
+],
+joinType:0,
+name:"scopi_to_scopiriclassificazioni_filtered_by_ditta",
+primaryDataSource:"db:/ma_hr/tabscopi",
+typeid:22,
+uuid:"C689B433-B124-4479-BAFD-E0AAE5150CC8"

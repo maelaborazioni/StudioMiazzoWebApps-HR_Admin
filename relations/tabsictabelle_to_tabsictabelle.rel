@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_hr/tabsictabelle",
+joinType:0,
+name:"tabsictabelle_to_tabsictabelle",
+primaryDataSource:"db:/ma_hr/tabsictabelle",
+typeid:22,
+uuid:"25EE3034-5484-4FA3-A91A-8D2BB9CACEC7"

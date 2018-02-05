@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_motivicessazione",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"7E38B98D-9DF8-4C16-B888-4ACD601C2270"
+}
+],
+name:"hra_motivocessazione",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"B34D588D-C1A9-42DC-A808-1696592E8D6D"

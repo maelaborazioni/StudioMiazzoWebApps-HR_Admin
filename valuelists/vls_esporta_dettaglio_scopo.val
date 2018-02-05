@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Tutte le riclassificazioni|0
+Non riclassificati|1",
+name:"vls_esporta_dettaglio_scopo",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"67F088A7-6C30-4EF0-A7D0-1B4287DE873C"

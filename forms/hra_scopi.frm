@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/tabscopi",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6C0EFD3F-9242-4524-B47B-1CF6224D8473"
+}
+],
+name:"hra_scopi",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4825272C-F8A6-4A06-A419-C650986250AA"

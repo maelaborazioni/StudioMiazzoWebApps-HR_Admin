@@ -1,0 +1,15 @@
+dataSource:"db:/ma_hr/tablivello",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"8A6C7C85-17E5-4774-B2FF-BACA85BBB4A3"
+}
+],
+name:"hra_livello",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"1F7DE322-71A7-4DCF-8C87-E4A74E390CE1"

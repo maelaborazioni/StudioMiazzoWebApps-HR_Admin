@@ -1,0 +1,15 @@
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"D919EFB4-4665-4A20-BD33-645F28A42452"
+}
+],
+name:"hra_schemaelementiretributivi",
+onRenderMethodID:"-1",
+size:"400,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"10A50C78-D37D-4500-BF3D-383323C291DC"

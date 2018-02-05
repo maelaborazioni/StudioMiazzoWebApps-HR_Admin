@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/ditte_storico",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"04FD1C06-6CC8-42AB-BC29-199D407564E3"
+}
+],
+name:"hra_dittastorico",
+size:"741,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"DD09D01E-EA01-44C0-89C1-45223CB68E47"

@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+allowParentDeleteWhenHavingRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/ma_hr/dittescopiriclassificazioni",
+items:[
+{foreignColumnName:"idscopo",operator:0,primaryDataProviderID:"idscopo",typeid:23,uuid:"261958F5-3773-461C-8674-11789DB240B8"},
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta",typeid:23,uuid:"44091BD3-4754-4A44-9584-B7D6DAE83E58"}
+],
+joinType:0,
+name:"scopo_to_scopiriclassificazioni",
+primaryDataSource:"db:/ma_hr/dittascopo",
+typeid:22,
+uuid:"8BDBB486-0C8E-44A7-8733-474A303D2048"
