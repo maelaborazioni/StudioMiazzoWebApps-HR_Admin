@@ -9,7 +9,7 @@ function dc_save_validate(_foundset,_program)
 	{
 		if(_super.dc_save_validate(_foundset,_program) !== -1)
 		{
-			/** @type {JSFoundset<db:/ma_hr/tabprivacytipodocumento>} */
+			/** @type {JSFoundSet<db:/ma_hr/tabprivacytipodocumento>} */
 			var fs = _foundset.duplicateFoundSet();
 			if(fs && fs.find())
 			{

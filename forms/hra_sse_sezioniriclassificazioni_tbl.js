@@ -101,7 +101,7 @@ function filterElementi(fs)
 		fs.addFoundSetFilterParam('idditta', '=', sezioniriclassificazioni_to_scopiriclassificazioni.idditta, 'ftr_elementiDitta');
 	
 	// Rimuovi gli elementi già riclassificati per questa ditta e per questo scopo
-	/** @type {JSFoundset<db:/ma_hr/ditteelementiriclassificazioni>} */
+	/** @type {JSFoundSet<db:/ma_hr/ditteelementiriclassificazioni>} */
 	var elementiRiclassificatiFs = databaseManager.getFoundSet(globals.Server.MA_HR, 'ditteelementiriclassificazioni')
 		elementiRiclassificatiFs.addFoundSetFilterParam('iddittasezionericlassificazione', 'IN', globals.foundsetToArray(foundset, 'iddittasezionericlassificazione'));
 		elementiRiclassificatiFs.loadAllRecords();
